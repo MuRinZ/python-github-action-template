@@ -2,7 +2,7 @@ name: Release Management
 
 on:
   schedule:
-    - cron: '56 12 * * *' # At 00:00 on Monday
+    - cron: '17 56 * * *' # At 00:00 on Monday
 
 jobs:
   build:
